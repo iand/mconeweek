@@ -1,0 +1,33 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HfwB3/kNbEZ3xzCw8Eq2aV5RB+U=",
+			"path": "github.com/go-gl/gl/v3.3-core/gl",
+			"revision": "ac0d3d2af0fe995e2bb09fa6619b716b0c0fc0fa",
+			"revisionTime": "2017-09-15T06:14:32Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "v9Sx73Oy5ncZd0LpVLxGF0k5Sio=",
+			"path": "github.com/go-gl/glfw/v3.2/glfw",
+			"revision": "513e4f2bf85c31fba0fc4907abd7895242ccbe50",
+			"revisionTime": "2017-08-14T18:07:46Z",
+			"tree": true
+		},
+		{
+			"checksumSHA1": "fUprafUkxgP44NeQ2JBFVVZcB5g=",
+			"path": "github.com/go-gl/mathgl/mgl32",
+			"revision": "4c3fc6b4bf30179013667e5d0b926e024d9a13c1",
+			"revisionTime": "2017-09-09T03:07:43Z"
+		},
+		{
+			"checksumSHA1": "8C1Wo1n41eZziU9fDQT7Bic5WSg=",
+			"path": "golang.org/x/image/math/f32",
+			"revision": "334384d9e19178a0488c9360d94d183c1ef0f711",
+			"revisionTime": "2017-07-19T03:20:01Z"
+		}
+	],
+	"rootPath": "github.com/iand/mconeweek"
+}
